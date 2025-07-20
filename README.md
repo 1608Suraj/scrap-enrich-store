@@ -62,9 +62,9 @@ Scrap-enrich-store/
 
 ### MongoDB (in `script2.py`)
 ```python
-MONGO_URI = "mongodb://localhost:27017/"
-DB_NAME = "logistics"
-FILTERED_COLLECTION = "auto"
+MONGO_URI = "Mongo_Db URL"
+DB_NAME = "Dats_Bsse -Name"
+FILTERED_COLLECTION = "Collection_Name"
 ```
 
 ### Groq API Key (in `script1.py`)
