@@ -22,6 +22,9 @@ Scrap-enrich-store/
 ├── logistics.json        # Raw scraped data (output from script.py)
 ├── enriched_logistics4.json # Enriched data (output from script1.py)
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1608Suraj/scrap-enrich-store/main/diagram.png" width="600"/>
+</p>
 
 ---
 
