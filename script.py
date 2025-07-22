@@ -1,12 +1,7 @@
 import requests
 import json
 import time
-from dotenv import load_dotenv
 import os
-
-load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-MONGO_URI = os.getenv("MONGO_URI")
 
 api_url = "Paste here the api form which you want to scrap data"
 
